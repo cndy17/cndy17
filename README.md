@@ -5,10 +5,10 @@
 
 * 📮 Reach me at cndyli17@gmail.com
 
-* Zicklin School of Business
+* 📚 Zicklin School of Business
   * _Masters of Science in Data Analytics (In Progress)_
 
-* Boston College
+* 🎓 Boston College
   * _Bachelor of Science in Management Information Systems and Business Analytics, Minor in Computer Science (May 2023)_
 
 ### Connect With Me: 
