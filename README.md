@@ -9,7 +9,8 @@
   * _Masters of Science in Data Analytics (In Progress)_
 
 * 🎓 Boston College
-  * _Bachelor of Science in Management Information Systems and Business Analytics, Minor in Computer Science (May 2023)_
+  * _Bachelor of Science in Management Information Systems and Business Analytics (May 2023)_
+  * _Minor in Computer Science_
 
 ### Connect With Me: 
 <a href="https://www.linkedin.com/in/cndyli/" target="_blank" rel="nofollow">
