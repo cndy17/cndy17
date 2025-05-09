@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Cindy Li
 
 ### A Data Analyst/Business Analyst in New York City
-* 🌱 I’m currently learning Data Mining, Financial Analysis, Big Data, and Data Visualization.
+* 🌱 I’m currently learning Data Mining, FP&A, Big Data Technologies, Decision Modeling, and Data Visualization.
 
 * 📮 Reach me at cndyli17@gmail.com
 
