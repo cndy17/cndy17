@@ -9,7 +9,7 @@
   * _Masters of Science in Data Analytics (In Progress)_
 
 * 🎓 Boston College, Carroll School of Management
-  * _Bachelor of Science in Management Information Systems and Business Analytics (May 2023)_
+  * _Bachelor of Science in Management Information Systems and Business Analytics_
   * _Minor in Computer Science_
 
 ### Connect With Me: 
