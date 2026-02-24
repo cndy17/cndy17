@@ -6,7 +6,7 @@
 * 📮 Reach me at cndyli17@gmail.com
 
 * 📚 Baruch College, Zicklin School of Business
-  * _Masters of Science in Data Analytics (In Progress)_
+  * _Masters of Science in Data Analytics_
 
 * 🎓 Boston College, Carroll School of Management
   * _Bachelor of Science in Management Information Systems and Business Analytics_
